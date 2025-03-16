@@ -11,3 +11,5 @@
 [Methodologies and Technologies of Software Development course](https://github.com/notnuff-university-projects/MTSD)
 
 [Graphics course](https://github.com/notnuff-university-projects/Graphics)
+
+[High-Performance Computer Systems Software course](https://github.com/notnuff-university-projects/Parallelismo)
