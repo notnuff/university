@@ -13,3 +13,5 @@
 [Graphics course](https://github.com/notnuff-university-projects/Graphics)
 
 [High-Performance Computer Systems Software course](https://github.com/notnuff-university-projects/Parallelismo)
+
+[Modern Operating Systems course](https://github.com/notnuff-university-projects/MOSys)
